@@ -73,7 +73,7 @@ Special emphasis was given to **Recall for heart disease cases**, as missing a p
 ---
 
 ### Dashboard Preview
-![Dashboard Preview](Dashboard_heart_Disease.pdf)
+![Dashboard Preview](dashboard_heart.pdf)
 
 --
 
@@ -89,15 +89,6 @@ The selected model minimized false negatives, making it suitable for healthcare 
 - Dataset size is limited to 1025 records
 - No external validation dataset was used
 - The model was tested only on structured numerical data
-
----
-
-## 🚀 Future Scope
-- Hyperparameter tuning using GridSearchCV
-- Trying advanced ensemble models like XGBoost
-- Model deployment using Flask or Streamlit
-- Adding explainability using feature importance
-- Real-time prediction system integration
 
 ---
 
