@@ -72,6 +72,11 @@ Special emphasis was given to **Recall for heart disease cases**, as missing a p
 
 ---
 
+### Dashboard Preview
+![Dashboard Preview](Dashboard_heart_Disease.pdf)
+
+--
+
 ## 📉 Error Analysis
 - **False Positives:** May cause unnecessary medical concern
 - **False Negatives:** More critical, as they represent missed heart disease cases  
@@ -83,7 +88,6 @@ The selected model minimized false negatives, making it suitable for healthcare 
 ## ⚠️ Limitations
 - Dataset size is limited to 1025 records
 - No external validation dataset was used
-- Hyperparameter tuning was limited
 - The model was tested only on structured numerical data
 
 ---
