@@ -10,8 +10,8 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 ---
 
 ## 📂 Dataset
-- **Source:** UCI Heart Disease Dataset  
-- **Records:** 1025  
+- **Source:** Kaggle Heart Disease Dataset  
+- **Records:** 1026 
 - **Features:** 13 medical attributes (age, cholesterol, blood pressure, etc.)  
 - **Target:**  
   - `0` → No Heart Disease  
