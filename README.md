@@ -17,8 +17,6 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
   - `0` → No Heart Disease  
   - `1` → Heart Disease  
 
-The dataset was already cleaned and contained **no missing values**.
-
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
